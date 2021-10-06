@@ -18,7 +18,7 @@ This project is built as a practice for optimizing search queries in a populated
 The following are screenshot displaying the before and after results on analysing the SQL data.
 ### BEFORE
 
-![query_one_before](./assets/QueryPlanAfterOptimization.png)
+![query_one_before](./assets/QueryPlanBeforeOptimization.png)
 
 ### AFTER
 
