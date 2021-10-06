@@ -99,8 +99,6 @@ Feel free to check the [issues page](https://github.com/erezfree29/vet-clinic/is
 - Twitter: [@twitterhandle](https://twitter.com/marijanbrvar)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/marijanbrvar)
 
-![Marijan's GitHub stats](https://github-readme-stats.vercel.app/api?username=marijanbrvar&count_private=true&theme=dark&show_icons=true)
-
 👤 **Erez Friemagor**
 
 [<code><img height="26" src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png"></code>](https://github.com/erezfree29)
